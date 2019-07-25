@@ -3,13 +3,13 @@ main:
   - title: "Contato"
     url: /_pages/contato.md
     description: "Clique aqui para deixar uma mensagem"
-  - title: "Aulas"
-    url: /_pages/aulas.md
-    description: "Ementas, bibliografia e materiais de disciplinas que estou oferecendo no semestre corrente"
-  - title: "Produção acadêmica"
-    url: /_pages/producao.md
-    description: "Artigos publicados e link para meu currículo Lattes"
-  - title: "Links"
-    url: /_pages/links.md
-    description: "Links diversos que considero de interesse"
+  # - title: "Aulas"
+  #  url: /_pages/aulas.md
+  #  description: "Ementas, bibliografia e materiais de disciplinas que estou oferecendo no semestre corrente"
+  # - title: "Produção acadêmica"
+  #  url: /_pages/producao.md
+  #  description: "Artigos publicados e link para meu currículo Lattes"
+  # - title: "Links"
+  #  url: /_pages/links.md
+  #  description: "Links diversos que considero de interesse"
   
