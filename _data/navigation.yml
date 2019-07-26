@@ -3,6 +3,7 @@ main:
   - title: "Contato"
     url: contact
     description: "Clique aqui para deixar uma mensagem"
+  - title: "Broken Link"
     url: contact.md
     description: "Clique aqui para deixar uma mensagem"
   # - title: "Aulas"
