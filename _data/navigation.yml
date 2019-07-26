@@ -12,6 +12,10 @@ main:
   - title: "Page In A Folder"
     url: contact-3
     description: "Clique aqui para deixar uma mensagem"
+  - title: "Anything"
+    url: you/can/make/this/anything
+    description: "Clique aqui para deixar uma mensagem"
+
   # - title: "Aulas"
   #  url: /_pages/aulas.md
   #  description: "Ementas, bibliografia e materiais de disciplinas que estou oferecendo no semestre corrente"
