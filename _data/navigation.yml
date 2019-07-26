@@ -9,6 +9,9 @@ main:
   - title: "Contato 2"
     url: contact-2
     description: "Clique aqui para deixar uma mensagem"
+  - title: "Page In A Folder"
+    url: contact-3
+    description: "Clique aqui para deixar uma mensagem"
   # - title: "Aulas"
   #  url: /_pages/aulas.md
   #  description: "Ementas, bibliografia e materiais de disciplinas que estou oferecendo no semestre corrente"
