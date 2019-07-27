@@ -14,3 +14,7 @@ O ensino deve visar, antes de tudo, à autonomia. Sendo assim, não faria sentid
 Minha produção acadêmica volta-se basicamente para a área de música. Uma das preocupações de base consiste em evitar estabelecer limites entre a análise musical em sentido mais estrito e a investigação histórica, sociológica ou etnomusicológica no que têm de mais fortemente vinculadas às Ciências Sociais e seus métodos e perspectivas.
 
 Em termos temáticos, meus interesses se voltam para a investigação das relações entre modernismo, modernização e tradições nas músicas de concerto e populares.
+
+[Currículo Lattes](http://lattes.cnpq.br/5731361834004755)
+
+[Artigos publicados](https://ufrj.academia.edu/fredericobarros) (provisoriamente redirecionando para o site academia.edu)

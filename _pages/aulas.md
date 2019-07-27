@@ -7,6 +7,11 @@ header:
  text-align: center
 permalink: /aulas/
 ---
+As disciplinas que leciono se concentram na área de Musicologia, estando entre elas as Histórias da Música de 1 a 4, Música Brasileira 1, 2 e 3, Iniciação à Pesquisa em Música, orientação de monografia e dissertação de mestrado etc. Anteriormente, atuando como professor de Etnomusicologia na mesma instituição, lecionei Introdução à Antropologia da Música, Música e Tradições Orais no Brasil e Introdução às Músicas do Mundo. Além destas, venho oferecendo disciplinas que visam a dar noções de gravação e edição de áudio e editoração de partituras.
+
+## Disciplinas oferecidas no segundo semestre de 2019
+
+### Graduação:
 
 [História da Música I](/aulas/hm1)
 
@@ -16,6 +21,8 @@ permalink: /aulas/
 
 [Iniciação à Pesquisa I](/aulas/ipem1)
 
-[Tópicos Especiais em Musicologia](/aulas/pos) (pós-graduação)
+### Pós-graduação:
+
+[Tópicos Especiais em Musicologia](/aulas/pos)
 
 
