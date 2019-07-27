@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Contato"
-    url: contact.md
+    url: /contato
     description: "Clique aqui para deixar uma mensagem"
   # - title: "Aulas"
   #  url: /_pages/aulas.md
