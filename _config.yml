@@ -21,7 +21,7 @@ title                    : "fredericobarros.com"
 subtitle                 : # "Frederico Barros"
 name                     : "Frederico Barros"
 description              : "Site de Frederico Barros, professor e pesquisador nas áreas de musicologia, história e sociologia"
-url                      : https://fredmbarros.github.io/fredmbarros"
+url                      : https://fredmbarros.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "fredmbarros/fredmbarros.github.io"
 teaser                   : "/assets/images/teaser.jpg"
@@ -129,9 +129,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Contato"
-      icon: "fas fa-envelope-square"
-      url: "contato"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fredmbarros"
@@ -141,12 +138,22 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fredmbarros"
+    - label: "r/Musicologia"
+      icon: "fab fa-reddit"
+      url: "https://www.reddit.com/r/Musicologia/"
+    - label: "PPGM-UFRJ"
+      icon: "fas fa-fw fa-link"
+      url: "https://ppgm.musica.ufrj.br/"
+    - label: "Contato"
+      icon: "fas fa-envelope-square"
+      url: "contato"
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - _sass
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -278,7 +285,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       share: true
@@ -291,4 +298,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
