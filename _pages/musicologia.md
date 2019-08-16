@@ -1,6 +1,6 @@
 ---
-title: Música, História e Ciências Sociais
-layout: single
+title: "Música, História e Ciências Sociais"
+layout: posts
 header:
  overlay_image: /assets/images/partitura.png
  text-align: center
