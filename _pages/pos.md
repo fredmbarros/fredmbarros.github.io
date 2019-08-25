@@ -16,4 +16,4 @@ Aula 2 - 22/08
 - [Elias, N. *Mozart - sociologia de um gênio* (excerto)](https://drive.google.com/file/d/0B1yjDy01svPDNHBYNlVtcVhLNDQ/view?usp=sharing)
 
 Aula 3 - 29/08
-- [DeNora, T. *Beethoven and the construction of genius*](https://drive.google.com/file/d/0B1yjDy01svPDdGR1V0JBWUx6U1k/view?usp=sharing)
+- [DeNora, T. *Beethoven and the construction of genius*](https://drive.google.com/file/d/0B1yjDy01svPDdGR1V0JBWUx6U1k/view?usp=sharing) - ler os capítulos 1, 2 e 3 (do início até a página 59)
