@@ -52,6 +52,7 @@ permalink: /aulas/mb3/
 ### 04/11, aula 10 - Música Nova
 - Darmstadt e a vanguarda
 - O Manifesto Música Nova
+- Música de concerto, música popular brasileira e jazz: o Quarteto Novo
 
 ### 11/11, aula 11 - Tropicalismo e o Nacional-Popular
 - os Festivais
@@ -67,6 +68,7 @@ permalink: /aulas/mb3/
 - Estética pós-moderna
 - músicas de concerto brasileiras contemporâneas
 - Vanguarda Paulistana
+- Música de concerto, música popular brasileira e jazz 2: Hermeto Pascoal, Egberto Gismonti e Victor Assis Brasil
 
 ### 02/12, aula 14 - BRock, axé, novas MPBs e outros gêneros pop
 - o movimento punk
