@@ -17,3 +17,6 @@ Aula 2 - 22/08
 
 Aula 3 - 29/08
 - [DeNora, T. *Beethoven and the construction of genius*](https://drive.google.com/file/d/0B1yjDy01svPDdGR1V0JBWUx6U1k/view?usp=sharing) - ler os capítulos 1 e 2
+
+Aula 4 - 05/09
+- [McClary, S. *Feminine Endings*](https://drive.google.com/file/d/0B1yjDy01svPDNUVWOHgtTlRwYUU/view?usp=sharing) - ler a introdução, "Introduction: A Material Girl in Bluebeard's Castle"
