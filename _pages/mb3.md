@@ -77,3 +77,5 @@ permalink: /aulas/mb3/
 
 ### 09/12, aula 15 - Entrega dos trabalhos finais e encerramento do curso
 
+---
+###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)

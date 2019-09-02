@@ -69,3 +69,5 @@ permalink: /aulas/ipem1/
 
 ### 10/12, aula 15 - Entrega das notas finais e encerramento do curso
 
+---
+###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)

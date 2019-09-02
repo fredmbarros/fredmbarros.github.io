@@ -20,3 +20,6 @@ Aula 3 - 29/08
 
 Aula 4 - 05/09
 - [McClary, S. *Feminine Endings*](https://drive.google.com/file/d/0B1yjDy01svPDNUVWOHgtTlRwYUU/view?usp=sharing) - ler a introdução, "Introduction: A Material Girl in Bluebeard's Castle"
+
+---
+###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)
