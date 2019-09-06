@@ -25,7 +25,7 @@ Aula 5 - 12/09
 - [Walser, R. *Out of Notes: signification, interpretation and the problem of Miles Davis*](https://drive.google.com/file/d/0B1yjDy01svPDME1Bdkp1d2RaS1k/view?usp=sharing)
 
 Aula 6 - 19/09
-- Hennion, A. *La passion musicale*: [francês](https://drive.google.com/file/d/1YEymQTJl1YOK3fILSEJzOEry8ZTSXJUo/view?usp=sharing) (excerto apenas com as partes a serem lidas); [espanhol](https://drive.google.com/file/d/0B1yjDy01svPDZU93am9ldW45clE/view?usp=sharing) (livro completo, ler apenas a Introdução (págs. 15-28) e a Terceira Parte (págs. 219-266))
+- Hennion, A. *La passion musicale* - [francês](https://drive.google.com/file/d/1YEymQTJl1YOK3fILSEJzOEry8ZTSXJUo/view?usp=sharing) (excerto apenas com as partes a serem lidas); [espanhol](https://drive.google.com/file/d/0B1yjDy01svPDZU93am9ldW45clE/view?usp=sharing) (livro completo, ler apenas a Introdução (págs. 15-28) e a Terceira Parte (págs. 219-266))
 
 ---
 ###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)
