@@ -6,3 +6,5 @@ header:
  text-align: center
 permalink: /aulas/mb1/
 ---
+
+Clique [aqui](https://drive.google.com/drive/folders/1tbC_IIBigclMtceySrde1DJHAM4x8xuk?usp=sharing) para para acessar os textos dos seminários
