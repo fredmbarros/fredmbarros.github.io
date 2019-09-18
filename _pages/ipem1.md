@@ -19,7 +19,7 @@ permalink: /aulas/ipem1/
 ### 20/08, aula 1 - Apresentação do curso
 
 ### 27/08, aula 2 - Estruturando um projeto de pesquisa
-- do problema à bibliografica
+- do problema à bibliografia
 
 ### 03/09, aula 3 - O levantamento bibliográfico
 - onde e como buscar
