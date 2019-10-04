@@ -23,6 +23,7 @@ Aula 4 - 05/09
 
 Aula 5 - 12/09
 - [Walser, R. *Out of Notes: signification, interpretation and the problem of Miles Davis*](https://drive.google.com/file/d/1gGH6gpXMy1LdyH0YViP2hrg34pUObKQU/view?usp=sharing)
+- [outros textos do Walser](https://drive.google.com/drive/folders/1mRxd2YnY0C_hUvxtHrOrrrAKVTqrd7rl?usp=sharing) sugeridos por Jonas Lana
 
 Aula 6 - 19/09
 - Hennion, A. *La passion musicale* - [francês](https://drive.google.com/file/d/1YEymQTJl1YOK3fILSEJzOEry8ZTSXJUo/view?usp=sharing) (excerto apenas com as partes a serem lidas); [espanhol](https://drive.google.com/file/d/0B1yjDy01svPDZU93am9ldW45clE/view?usp=sharing) (livro completo, ler apenas a Introdução (págs. 15-28) e a Terceira Parte (págs. 219-266))
@@ -32,6 +33,11 @@ Aula 7 - 26/09
 
 Aula 8 - 03/10
 - Latour, B. *Reassembling the Social* - [inglês](https://drive.google.com/open?id=0B1yjDy01svPDNDNRTTM4Skl2MzQ) (p. 1-62); [português](https://drive.google.com/open?id=0B1yjDy01svPDMUlkb1J1U3lwcjg) (p. 17-96).
+
+Aula 9 - 10/10
+- continuação de Latour, B. *Reassembling the Social*
+- apreciação do que foi discutido no curso até aqui
+- Callon, M. *Sociology of an Actor-Network: the case of the electric vehicle* [inglês](https://drive.google.com/open?id=1wHFNWsNgYz1QHYTX1giVSUzwqeNWT52O) (p. 19-35)
 
 ---
 ###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)
