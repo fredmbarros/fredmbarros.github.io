@@ -39,5 +39,7 @@ Aula 9 - 10/10
 - apreciação do que foi discutido no curso até aqui
 - Callon, M. *Sociology of an Actor-Network: the case of the electric vehicle* [inglês](https://drive.google.com/open?id=1wHFNWsNgYz1QHYTX1giVSUzwqeNWT52O) (p. 19-35)
 
+Aula 10 - 17/10
+- [DeNora, T. *After Adorno*](https://drive.google.com/open?id=0B1yjDy01svPDWURrNE5xXzQyem8) (ler do início até a página 58)
 ---
 ###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)
