@@ -42,6 +42,10 @@ Aula 9 - 10/10
 Aula 10 - 17/10
 - [DeNora, T. *After Adorno*](https://drive.google.com/open?id=0B1yjDy01svPDWURrNE5xXzQyem8) (ler do início até a página 58)
 
+- [Bacal, T. *Por uma autoria ciborgue. Ou, os produtores estão chegando*](https://drive.google.com/file/d/1ifMF270ngjZgN5LtqsBk38YFflLuJZnW/view?usp=sharing)
+
+- [Landarini, S. *Música não existe!*](https://medium.com/@SidartaLandarini/m%C3%BAsica-n%C3%A3o-existe-6b156cdfae90)
+
 Aula 11 - 23/10
 - [Agawu, K. *Representing African Music*](https://drive.google.com/file/d/1NGfPpj96FviPEycF_hPFkCMFXxhmxANz/view?usp=sharing) (ler os capítulos 1 e 3)
 
