@@ -41,5 +41,9 @@ Aula 9 - 10/10
 
 Aula 10 - 17/10
 - [DeNora, T. *After Adorno*](https://drive.google.com/open?id=0B1yjDy01svPDWURrNE5xXzQyem8) (ler do início até a página 58)
+
+Aula 11 - 23/10
+- [Agawu, K. *Representing African Music*](https://drive.google.com/file/d/1NGfPpj96FviPEycF_hPFkCMFXxhmxANz/view?usp=sharing) (ler os capítulos 1 e 3)
+
 ---
 ###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)
