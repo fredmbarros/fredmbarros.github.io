@@ -49,5 +49,10 @@ Aula 10 - 17/10
 Aula 11 - 23/10
 - [Agawu, K. *Representing African Music*](https://drive.google.com/file/d/1NGfPpj96FviPEycF_hPFkCMFXxhmxANz/view?usp=sharing) (ler os capítulos 1 e 3)
 
+Aula 12 - 30/10
+- [Arom, S. *African polyphony and polyrhythm*](https://drive.google.com/file/d/11FH3bkLRTgmIqrNj_m6D4sAbtMKArt1V/view?ts=5db230fa) (ler o "Book V")
+
+- ler também o capítulo 4 de Agawu, K. *Representing African Music* (texto da aula anterior)
+
 ---
 ###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)
