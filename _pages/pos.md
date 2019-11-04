@@ -54,5 +54,10 @@ Aula 12 - 30/10
 
 - ler também o capítulo 4 de Agawu, K. *Representing African Music* (texto da aula anterior)
 
+Aula 13 - 07/11
+- [Lord, A. *Characteristics of Orality*](https://drive.google.com/file/d/13i2QnVMRimF1r-wGVQjwZoxVNT0-0nLP/view?usp=drivesdk)
+
+- continuaremos também a discussão dos textos de Arom e Agawu da aula anterior. 
+
 ---
 ###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)
