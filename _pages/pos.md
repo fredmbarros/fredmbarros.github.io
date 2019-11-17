@@ -59,5 +59,11 @@ Aula 13 - 07/11
 
 - continuaremos também a discussão dos textos de Arom e Agawu da aula anterior. 
 
+Aula 14 - 14/11
+- Continuaremos a discutir os temas das aulas precedentes
+
+Aula 15 - 21/11
+- [Danielsen, A. *The Sound of Crossover: Micro-rhythm and Sonic Pleasure in Michael Jackson's “Don't Stop 'Til You Get Enough”*](https://drive.google.com/file/d/1GoIrR5fd5Yd0BheL61UlQSqgI0VobqQd/view?usp=sharing)
+
 ---
 ###### Para comentários sobre este plano de curso, clique [aqui](https://github.com/fredmbarros/planosDeCurso)
